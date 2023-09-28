@@ -1,1 +1,3 @@
 # MachineLearningModelSelectionAssistant
+
+The Machine Learning Model Selection Assistant is a comprehensive and user-friendly Python project crafted to aid users in the selection of the most appropriate machine learning algorithm for their specific task. It covers a variety of problem domains, including classification, regression, clustering, and dimension analysis. The assistant expertly guides users toward the optimal choice by posing relevant questions about their dataset, problem complexity, target variables, and features. Once the questionnaire is finished, the user is presented with the optimal choice along with a detailed explanation of the model's principles, strengths, limitations, and suitable application scenarios. 
